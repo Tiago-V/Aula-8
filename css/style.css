@@ -1,0 +1,10 @@
+gti *{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    background-color: blueviolet;
+    color: white;
+    text-decoration: none;
+}
